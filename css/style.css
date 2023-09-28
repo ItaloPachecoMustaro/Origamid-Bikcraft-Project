@@ -1,12 +1,21 @@
 /* Global */
 @import "./global/global.css";
 @import "./global/header.css";
-
-/* Home */
-@import "./home/introduction.css";
+@import "./global/footer.css";
 
 /* utilities */
 @import "./utilities/colors.css";
 @import "./utilities/components.css";
 @import "./utilities/typography.css";
 
+/* Home */
+@import "./home/introduction.css";
+@import "./home/technology.css";
+@import "./home/partners.css";
+@import "./home/testimony.css";
+
+/* bicycles */
+@import "./bicycles/bicycles-list.css";
+
+/* insurance */
+@import "./insurance/insurance.css";
