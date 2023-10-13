@@ -14,12 +14,18 @@
 @import "./home/partners.css";
 @import "./home/testimony.css";
 
+/* bicycle */
+@import "./bicycle/bicycle.css";
+@import "./bicycle/insurance.css";
+
 /* bicycles */
 @import "./bicycles/bicycles-list.css";
 @import "./bicycles/bicycles.css";
 
-/* insurance */
-@import "./insurance/insurance.css";
+/* insurances */
+@import "./insurances/insurances.css";
+@import "./insurances/advantages.css";
+@import "./insurances/questions.css";
 
 /* terms */
 @import "./terms/terms.css";
