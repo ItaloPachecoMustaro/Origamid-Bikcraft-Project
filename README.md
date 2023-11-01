@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Bem-vindo ao meu Projeto HTML e CSS para Iniciantes</h1> 
+<h1>Bem-vindo ao meu Projeto UX/UI Design para Iniciantes e HTML/CSS para Iniciantes</h1> 
 </div>
 
 <hr>
@@ -8,7 +8,7 @@
 
 ## 📚Descrição
 
-Este é um projeto web que eu criei como parte do curso "HTML e CSS para Iniciantes" da Origamid. Durante o curso, aprendi os fundamentos essenciais do desenvolvimento web, começando do zero.
+Participando dos cursos "UX/UI Design para Iniciantes" e "HTML/CSS para Iniciantes" da Origamid, desenvolvi a Bikcraft, uma plataforma de vendas de bicicletas elétricas. Ao longo desses cursos, adquiri conhecimentos detalhados sobre UX Design, UI Design, cores, tipografia, wireframe, protótipo, sistema de design, Figma, HTML e CSS, JavaScript, Git e Github, CSS Grid Layout, layout responsivo e CSS Flexbox.
 
 <br>
 
